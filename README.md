@@ -12,4 +12,4 @@ Boilerplate for C++ ROSNode to streamline the build system. Just type make.
 
 ## Customization
 You might want to change the ROS package name, disable msg / srv creation, and/or add your own executables.
-For this, look at `package.xml`, and `CMakeLists.txt`.
+For this, look at `manifest.xml`, and `CMakeLists.txt`.
